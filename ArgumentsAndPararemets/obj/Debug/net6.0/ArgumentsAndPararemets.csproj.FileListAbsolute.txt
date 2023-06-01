@@ -1,0 +1,15 @@
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\bin\Debug\net6.0\ArgumentsAndPararemets.exe
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\bin\Debug\net6.0\ArgumentsAndPararemets.deps.json
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\bin\Debug\net6.0\ArgumentsAndPararemets.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\bin\Debug\net6.0\ArgumentsAndPararemets.dll
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\bin\Debug\net6.0\ArgumentsAndPararemets.pdb
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.dll
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\refint\ArgumentsAndPararemets.dll
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.pdb
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ArgumentsAndPararemets.genruntimeconfig.cache
+C:\Users\Vanessa\source\repos\Functions\ArgumentsAndPararemets\obj\Debug\net6.0\ref\ArgumentsAndPararemets.dll
